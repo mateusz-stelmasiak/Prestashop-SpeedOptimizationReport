@@ -1,2 +1,9 @@
 # Prestashop-SpeedOptimizationReport
-Mainly caching
+
+## STATE BEFORE
+
+## STATE AFTER
+
+## PROMPT FOR FUTURE REFERENCE
+### RESOURCES
+
