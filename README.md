@@ -1,4 +1,3 @@
-[Raport_Monitoring_WWW_www.alhambrasklep.pl (1) (1).pdf](https://github.com/user-attachments/files/32439877/Raport_Monitoring_WWW_www.alhambrasklep.pl.1.1.pdf)
 # Prestashop-SpeedOptimizationReport
 
 ## ABSTRACT
