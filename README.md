@@ -3,10 +3,7 @@
 ## ABSTRACT
 | Metric | Before | After |
 |---|---|---|
-| Page load time (current) | 3.53 s | |
 | Page load time (30-day avg) | 3.41 s | |
-| Downtime | 30 min | |
-| Uptime | 99.7% | |
 | **Page size (total)** | **3.83 MB** | |
 | — JS | 2.66 MB | |
 | — IMG | 658.03 KB | |
@@ -21,6 +18,8 @@
 
 
 ## STATE BEFORE
+<img width="1855" height="1515" alt="image" src="https://github.com/user-attachments/assets/b394c4a4-bce1-4c7a-baa8-9ecf2d5a5c17" />
+
 ### Daily load time
 
 | Date | Load time |
