@@ -1,15 +1,17 @@
 # Prestashop-SpeedOptimizationReport
 
 ## ABSTRACT
+All messurements are given for desktop and mobile (desktop/mobile) for the main path (homepage -> category -> custom set -> checkout)
 | Metric | Before | After |
 |---|---|---|
-| Page load time (30-day avg) | 3.41 s | |
-| **Page size (total)** | **3.83 MB** | |
+| [DESKTOP] Page load time (7- day avg) | 3.41 s | |
+| [MOBILE] Page load time (7- day avg) | 3.41 s | |
+| [DESKTOP] **Page size (total)** | **3.83 MB** | |
 | — JS | 2.66 MB | |
 | — IMG | 658.03 KB | |
 | — CSS | 310.21 KB | |
 | — Fonts / other | ~229 KB* | |
-| **Page elements (total)** | **41** | |
+| [DESKTOP] **Page elements (total)** | **41** | |
 | — IMG | 29.27% (12) | |
 | — JS | 26.83% (11) | |
 | — Other | 26.83% (11) | |
