@@ -5,7 +5,18 @@ All messurements are given for desktop and mobile (desktop/mobile) for the main 
 
 <img width="1600" height="954" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/9f1b4f79-b763-4376-b75f-a2adaa464fe8" />
 
-| Metric | Before | After |
+### RESULTS
+| METRIC | BEFORE | AFTER
+|---|---|---|
+| **[DESKTOP]** Page load time (7- day avg) | 3.41 s | 0.20 s|
+| - Total blocking time (main thread) | 3.41 s | 0.20 s |
+| - First Containtfull paint | 3.41 s | 0.04 s|
+| [**MOBILE] **Page load time (7- day avg) | 2.51 s | 0.02s |
+| — Total blocking time (main thread) | 2.51 s | 0.02 s|
+| SIZE STATISTICS
+| **[DESKTOP]** Page size (total) | **3.83 MB** | |
+| — JS | 2.66 MB | |
+|---|---|
 | — IMG | 658.03 KB | |
 | — CSS | 310.21 KB | |
 | — Fonts / other | ~229 KB* | |
