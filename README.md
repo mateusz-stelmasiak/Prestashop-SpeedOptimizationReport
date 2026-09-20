@@ -46,7 +46,7 @@ All messurements are given for desktop and mobile (desktop/mobile) for the main 
   
 
 ## STATS AFTER
-<img width="2125" height="650" alt="image" src="https://github.com/user-attachments/assets/b10169af-7685-47f1-b3ff-6e42e716c796" />
+<img width="1600" height="659" alt="Code_Generated_Image (3)" src="https://github.com/user-attachments/assets/04d639b4-a41f-46b6-a85f-7989f4f92425" />
 
 ## PROMPT FOR FUTURE REFERENCE
 ### RESOURCES
