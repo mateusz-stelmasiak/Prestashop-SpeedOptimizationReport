@@ -1,7 +1,7 @@
 # Prestashop-SpeedOptimizationReport
 
 ## ABSTRACT
-All messurements are given for desktop and mobile (desktop/mobile) for the main path (homepage -> category -> custom set -> checkout).
+All messurements are given for desktop and mobile for the main path (homepage -> category -> custom set -> checkout).
 
 <img width="1600" height="954" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/9f1b4f79-b763-4376-b75f-a2adaa464fe8" />
 
