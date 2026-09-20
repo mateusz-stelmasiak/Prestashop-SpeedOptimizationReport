@@ -1,0 +1,2 @@
+# Prestashop-SpeedOptimizationReport
+Mainly caching
