@@ -14,17 +14,11 @@ All messurements are given for desktop and mobile (desktop/mobile) for the main 
 | **[MOBILE]** Page load time (7- day avg) | 2.51 s | 0.02s |
 | — Total blocking time (main thread) | 2.51 s | 0.02 s|
 | SIZE STATISTICS
-| **[DESKTOP]** Page size (total) | **3.83 MB** | 0.32 MB |
+| **[DESKTOP]** Page size (total) | 3.83 MB | 0.32 MB |
 | — JS | 2.66 MB | 153.9 KiB |
 | — IMG | 658.03 KB | |
 | — CSS | 310.21 KB | |
 | — Fonts / other | ~229 KB* | |
-| [DESKTOP] **Page elements (total)** | **41** | |
-| — IMG | 29.27% (12) | |
-| — JS | 26.83% (11) | |
-| — Other | 26.83% (11) | |
-| — Fonts | 12.2% (5) | |
-| — Remaining | ~4.9% (2) | |
 
 
 ## STATE BEFORE
