@@ -13,7 +13,6 @@ All messurements are given for desktop and mobile (desktop/mobile) for the main 
 | - First Containtfull paint | 3.41 s | 0.04 s|
 | **[MOBILE]** Page load time (7- day avg) | 2.51 s | 0.02s |
 | — Total blocking time (main thread) | 2.51 s | 0.02 s|
-| SIZE STATISTICS
 | **[DESKTOP]** Page size (total) | 3.83 MB | 0.32 MB |
 | — JS | 2.66 MB | 153.9 KiB |
 | — IMG | 658.03 KB | |
