@@ -11,12 +11,11 @@ All messurements are given for desktop and mobile (desktop/mobile) for the main 
 | **[DESKTOP]** Page load time (7- day avg) | 3.41 s | 0.20 s|
 | - Total blocking time (main thread) | 3.41 s | 0.20 s |
 | - First Containtfull paint | 3.41 s | 0.04 s|
-| [**MOBILE] **Page load time (7- day avg) | 2.51 s | 0.02s |
+| **[MOBILE]** Page load time (7- day avg) | 2.51 s | 0.02s |
 | — Total blocking time (main thread) | 2.51 s | 0.02 s|
 | SIZE STATISTICS
-| **[DESKTOP]** Page size (total) | **3.83 MB** | |
-| — JS | 2.66 MB | |
-|---|---|
+| **[DESKTOP]** Page size (total) | **3.83 MB** | 0.32 MB |
+| — JS | 2.66 MB | 153.9 KiB |
 | — IMG | 658.03 KB | |
 | — CSS | 310.21 KB | |
 | — Fonts / other | ~229 KB* | |
@@ -30,6 +29,7 @@ All messurements are given for desktop and mobile (desktop/mobile) for the main 
 
 ## STATE BEFORE
 <img width="1855" height="1515" alt="image" src="https://github.com/user-attachments/assets/b394c4a4-bce1-4c7a-baa8-9ecf2d5a5c17" />
+<img width="3837" height="2027" alt="image" src="https://github.com/user-attachments/assets/7a9eadec-1ea7-499a-9c81-836e036d86d9" />
 
 ### Daily load time
 
