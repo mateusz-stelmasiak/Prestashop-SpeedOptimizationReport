@@ -13,11 +13,11 @@ All messurements are given for desktop and mobile (desktop/mobile) for the main 
 | - First Containtfull paint | 3.41 s | 0.04 s|
 | **[MOBILE]** Page load time (7- day avg) | 2.51 s | 0.02s |
 | — Total blocking time (main thread) | 2.51 s | 0.02 s|
-| **[DESKTOP]** Page size (total) | 3.83 MB | 0.32 MB |
+| **[DESKTOP]** Page size (total) | 3.83 MB | 1.74 MB |
 | — JS | 2.66 MB | 153.9 KiB |
-| — IMG | 658.03 KB | |
-| — CSS | 310.21 KB | |
-| — Fonts / other | ~229 KB* | |
+| — IMG | 658.03 KB | 1.20 MB |
+| — CSS | 310.21 KB | 78.30 KB|
+| — Fonts / other | 229 KB | 160 KB|
 
 
 ## STATE BEFORE
@@ -43,7 +43,10 @@ All messurements are given for desktop and mobile (desktop/mobile) for the main 
    - hsrediscache [hsrediscache.zip](https://github.com/user-attachments/files/32438297/hsrediscache.zip)
    - litespeedcache [litespeedcache.zip](https://github.com/user-attachments/files/32438302/litespeedcache.zip)
    - smprestaspeed [smprestaspeed.zip](https://github.com/user-attachments/files/32438305/smprestaspeed.zip)
+  
 
+## STATS AFTER
+<img width="2125" height="650" alt="image" src="https://github.com/user-attachments/assets/b10169af-7685-47f1-b3ff-6e42e716c796" />
 
 ## PROMPT FOR FUTURE REFERENCE
 ### RESOURCES
