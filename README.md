@@ -4,13 +4,13 @@
 All messurements are given for desktop and mobile (desktop/mobile) for the main path (homepage -> category -> custom set -> checkout)
 | Metric | Before | After |
 |---|---|---|
-| [DESKTOP] Page load time (7- day avg) | 3.41 s | 0.20 s|
+| **[DESKTOP]** Page load time (7- day avg) | 3.41 s | 0.20 s|
 | - Total blocking time (main thread) | 3.41 s | 0.20 s |
 | - First Containtfull paint | 3.41 s | 0.04 s|
-| [MOBILE] Page load time (7- day avg) | 2.51 s | 0.02s |
+| [**MOBILE] **Page load time (7- day avg) | 2.51 s | 0.02s |
 | — Total blocking time (main thread) | 2.51 s | 0.02 s|
 | SIZE STATISTICS
-| [DESKTOP] **Page size (total)** | **3.83 MB** | |
+| **[DESKTOP]** Page size (total) | **3.83 MB** | |
 | — JS | 2.66 MB | |
 | — IMG | 658.03 KB | |
 | — CSS | 310.21 KB | |
