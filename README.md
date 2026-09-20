@@ -1,3 +1,4 @@
+[Raport_Monitoring_WWW_www.alhambrasklep.pl (1) (1).pdf](https://github.com/user-attachments/files/32439877/Raport_Monitoring_WWW_www.alhambrasklep.pl.1.1.pdf)
 # Prestashop-SpeedOptimizationReport
 
 ## ABSTRACT
@@ -45,6 +46,7 @@ All messurements are given for desktop and mobile (desktop/mobile) for the main 
 
 ## PROMPT FOR FUTURE REFERENCE
 ### RESOURCES
+[Raport_Monitoring_WWW_www.alhambrasklep.pl.pdf](https://github.com/user-attachments/files/32439879/Raport_Monitoring_WWW_www.alhambrasklep.pl.1.1.pdf)
 
 
 ## SOURCES
