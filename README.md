@@ -1,10 +1,6 @@
 # Prestashop-SpeedOptimizationReport
 
-## STATE BEFORE
-## STATE BEFORE
-
-Measured 13–19.09.2026
-
+## ABSTRACT
 | Metric | Before | After |
 |---|---|---|
 | Page load time (current) | 3.53 s | |
@@ -23,9 +19,9 @@ Measured 13–19.09.2026
 | — Fonts | 12.2% (5) | |
 | — Remaining | ~4.9% (2) | |
 
-<sub>*derived from the total minus the labelled segments; element counts derived from the percentages.</sub>
 
-### Daily load time (baseline)
+## STATE BEFORE
+### Daily load time
 
 | Date | Load time |
 |---|---|
@@ -39,13 +35,11 @@ Measured 13–19.09.2026
 
 
 ## CHANGELOG
+19/09/2026 
 1. Cache modules
    - hsrediscache [hsrediscache.zip](https://github.com/user-attachments/files/32438297/hsrediscache.zip)
    - litespeedcache [litespeedcache.zip](https://github.com/user-attachments/files/32438302/litespeedcache.zip)
    - smprestaspeed [smprestaspeed.zip](https://github.com/user-attachments/files/32438305/smprestaspeed.zip)
-
-
-## STATE AFTER
 
 
 ## PROMPT FOR FUTURE REFERENCE
