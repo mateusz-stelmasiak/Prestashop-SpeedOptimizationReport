@@ -1,9 +1,10 @@
 # Prestashop-SpeedOptimizationReport
+<img width="3832" height="2172" alt="image" src="https://github.com/user-attachments/assets/46b1f41e-aaa1-4a1a-943b-0f01a1968eba" />
+
 
 ## ABSTRACT
-All messurements are given for desktop and mobile for the main path (homepage -> category -> custom set -> checkout).
-
-<img width="1600" height="954" alt="Code_Generated_Image" src="https://github.com/user-attachments/assets/9f1b4f79-b763-4376-b75f-a2adaa464fe8" />
+The site began as pretty but consistently slow. Through minor code changes I managed to make it 200x faster. All messurements taken were obtained on the main customer path (homepage -> category -> custom set -> checkout).
+ <img width="1600" height="909" alt="Code_Generated_Image (4)" src="https://github.com/user-attachments/assets/aff5bded-21a8-4b5f-be13-d262519ff22c" />
 
 ### RESULTS
 | METRIC | BEFORE | AFTER
