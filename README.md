@@ -14,11 +14,11 @@ The site began as pretty but consistently slow. Through minor code changes I man
 | - First Containtfull paint | 3.41 s | 0.04 s|
 | **[MOBILE]** Page load time (7- day avg) | 2.51 s | 0.02s |
 | — Total blocking time (main thread) | 2.51 s | 0.02 s|
-| **[DESKTOP]** Page size (total) | 3.83 MB | 1.74 MB |
+| **[DESKTOP]** Page size (total) | 3.83 MB | 300.40 KB |
 | — JS | 2.66 MB | 153.9 KiB |
 | — IMG | 658.03 KB | 1.20 MB |
 | — CSS | 310.21 KB | 78.30 KB|
-| — Fonts / other | 229 KB | 160 KB|
+| — Fonts / other | 229 KB | 67 KB|
 
 
 ## STATE BEFORE
